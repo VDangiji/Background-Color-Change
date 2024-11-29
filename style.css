@@ -1,0 +1,10 @@
+.Container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 25rem;
+}
+button {
+  height: 50px;
+  width: 150px;
+}
